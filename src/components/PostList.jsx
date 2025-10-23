@@ -1,4 +1,3 @@
-// src/components/PostList.jsx
 import React from "react";
 import useFetch from "../hooks/useFetch";
 import "../styles.css";
